@@ -1,0 +1,7 @@
+nombre = input("introduzca su nombre completo: ")
+nombremin = nombre.lower()
+print(nombremin)
+nombremay = nombre.upper()
+print(nombremay)
+nombreiniciales = nombre.title()
+print(nombreiniciales)
